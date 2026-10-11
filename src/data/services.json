@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "name": "Consulta general",
+    "description": "Consulta inicial para evaluar las necesidades del cliente.",
+    "duration": 30,
+    "price": 15000,
+    "category": "Consulta",
+    "available": true
+  },
+  {
+    "id": 2,
+    "name": "Asesoria personalizada",
+    "description": "Sesion individual de asesoria y orientacion.",
+    "duration": 60,
+    "price": 25000,
+    "category": "Asesoria",
+    "available": true
+  },
+  {
+    "id": 3,
+    "name": "Seguimiento",
+    "description": "Revision de avances en una sesion breve.",
+    "duration": 20,
+    "price": 10000,
+    "category": "Seguimiento",
+    "available": false
+  }
+]

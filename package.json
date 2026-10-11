@@ -1,0 +1,21 @@
+{
+  "name": "administrador-servicios",
+  "version": "1.0.0",
+  "description": "Administrador de servicios para un sistema de turnos y reservas",
+  "type": "module",
+  "main": "src/app.js",
+  "scripts": {
+    "start": "node src/app.js",
+    "dev": "node --watch src/app.js"
+  },
+  "keywords": [
+    "nodejs",
+    "esm",
+    "servicios",
+    "reservas"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^16.4.7"
+  }
+}
